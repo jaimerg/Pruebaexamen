@@ -10,7 +10,7 @@ public class hola {
 		
 		System.out.println(numero);
 		for(int i=0; i<numero; i++){
-			System.out.println(numero);
+			System.out.println(numero+"Troll");
 			numero++;
 		}
 	}
