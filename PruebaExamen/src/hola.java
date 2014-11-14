@@ -9,6 +9,10 @@ public class hola {
 		int numero = Integer.parseInt(br.readLine());
 		
 		System.out.println(numero);
+		for(int i=0; i<numero; i++){
+			system.out.println(numero);
+			numero++;
+		}
 	}
 
 }
